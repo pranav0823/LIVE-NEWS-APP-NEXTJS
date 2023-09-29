@@ -1,0 +1,42 @@
+
+{
+"pagination": { "count": 25, "limit": 25, "offset": 0, "total": 10000 },
+"data": [
+  {
+    "author": "null",
+    "category": "general",
+    "country": "gb",
+    "description": "Murdered Turkish radio DJ Koray Alpergin, 43, told his sobbing girlfriend 'be quiet my love' before she was beaten unconscious by a gang of kidnappers who went on to hill him, a court heard.",
+    "image": "https://i.dailymail.co.uk/1s/2023/09/25/18/75819135-0-image-m-12_1695662312800.jpg",
+    "language": "en",
+    "published_at": "2023-09-25T17:47:33Z",
+    "source": "Mail",
+    "title": "Turkish radio DJ 'who was kidnapped and tortured to death' told his sobbing girlfriend 'be quiet my love' before she was beaten unconscious by gang, court hears",
+    "url": "https://www.dailymail.co.uk/news/article-12558831/Turkish-radio-DJ-kidnapped-tortured-death-told-sobbing-girlfriend-quiet-love-beaten-unconscious-gang-court-hears.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
+  },
+  {
+    "author": "null",
+    "category": "general",
+    "country": "gb",
+    "description": "Minnesota's new head of marijuana regulation Erin Dupree, 43, stepped down from her $151,505-a-year post amid the claims she broke the marijuana regulations she was hired to oversee.",
+    "image": "https://i.dailymail.co.uk/1s/2023/09/25/18/75819583-0-image-a-1_1695663810179.jpg",
+    "language": "en",
+    "published_at": "2023-09-25T17:46:59Z",
+    "source": "Mail",
+    "title": "Minnesota's newly-appointed marijuana chief Erin Dupree is forced to resign over claims she sold edibles double the strength of legal limit",     
+    "url": "https://www.dailymail.co.uk/news/article-12558331/Minnesota-marijuana-chief-Erin-Dupree-resigns-illegal-edibles.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
+  },
+  {
+    "author": "reporters@dailyrecord.co.uk (Ryan Thom)",
+    "category": "general",
+    "country": "gb",
+    "description": "Emergency services raced to the scene around 5.27pm this evening",
+    "image": "https://i2-prod.dailyrecord.co.uk/incoming/article31026342.ece/ALTERNATES/s98/0_RTR_AYP_205092023_FireBreaker.jpg",
+    "language": "en",
+    "published_at": "2023-09-25T17:43:51Z",
+    "source": "Daily Record",
+    "title": "Huge fire rips through Ayr's crumbling Station Hotel sparking huge emergency response",
+    "url": "https://www.dailyrecord.co.uk/ayrshire/huge-fire-rips-through-ayrs-31026285"
+  }
+]
+}
